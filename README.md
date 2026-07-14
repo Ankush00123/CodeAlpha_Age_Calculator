@@ -30,11 +30,11 @@ ________________________________________________________________________________
 4. The result displays the user's current age based on today's date.
 5. Click the clear button to clear both the input field and the displayed result.
 ________________________________________________________________________________________________________________
-# Information
+## Information
 This repository contains my submission for the CodeAlpha Web Development internship task.
 
 
-Task Requirements
+# Task Requirements
 Objective: Create a web-based age calculator using js
 
 Features

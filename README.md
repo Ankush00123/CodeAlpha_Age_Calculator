@@ -8,11 +8,11 @@ ________________________________________________________________________________
 
 ## Screenshots
 <p align="center">
-    <img src="output_ss/without_input.png" width="600">
+    <img src="output_ss/without_input.png" width="400">
 </p>
 
 <p align="center">
-    <img src="output_ss/with_input.png" width="600">
+    <img src="output_ss/with_input.png" width="400">
 </p>
 ________________________________________________________________________________________________________________
 

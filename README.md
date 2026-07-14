@@ -35,6 +35,10 @@ Key concepts
 3. Input validation
 ________________________________________________________________________________________________________________
 
+##Screenshots
+![Age Calculator](output_ss/without_input.png)
+![Age Calculator](output_ss/with_input.png)
+
 ## Live Demo
 
 [Age Calculator](https://codealpha-age-calculator-fvmfctbz3-ankush00123s-projects.vercel.app/)

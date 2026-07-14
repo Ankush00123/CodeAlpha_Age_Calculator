@@ -1,0 +1,107 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body
+{
+    margin: 0px;
+    background: linear-gradient(hsla(150, 92%, 45%, 0.775), hsla(200, 97%, 43%, 0.915));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#container
+{
+    display: block;
+    border: 3px solid black ;
+    border-radius: 20px;
+    height: auto;
+    width: 25%;
+    min-width: 300px;
+    text-align: center;
+    background: linear-gradient(hsla(170, 92%, 45%, 0.775), hsla(127, 97%, 43%, 0.915));
+    position: relative;
+}
+
+.input_container
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+#input_lbl
+{
+    margin: 0px 5%;
+    font-size: large;
+    font-weight: 500;
+}
+
+input[type="date"]
+{
+    margin: 0px 5%;
+    height: 3em;
+    width: 100%;
+    max-width: 90%;
+    background: linear-gradient(hsla(150, 92%, 45%, 0.775), hsla(140, 94%, 44%, 0.775));
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#button_container
+{
+    margin: 0px 0px;
+}
+
+.buttons
+{
+    display: inline-block;
+    text-align: center;
+    background-color: hsla(90, 99%, 70%, 0.8);
+    border: 1px solid hsla(40, 89%, 35%, 0.8);
+    border-radius: 20px;
+    height: 3em;
+    width: 150px;
+    cursor: pointer;
+    transition: 0.1s ease-in; 
+
+}
+
+#clear_btn
+{
+    width: 90px;
+}
+
+
+.buttons:hover
+{
+    transform: scale(1.05);
+    background-color: hsla(125, 99%, 70%, 0.947);
+}
+
+#output_container
+{
+    display: none;
+    margin: 0px 10px;
+    margin-bottom: 15px;
+    min-height: 2em;
+    font-size: 20px;
+}
+
+#output_p
+{
+    margin: 0%;
+}
+
+.error
+{
+    display: inline-block;
+    color: white;
+    background-color: hsla(348, 97%, 48%, 0.968);
+    padding: 5px;
+    border-radius: 5px;
+}

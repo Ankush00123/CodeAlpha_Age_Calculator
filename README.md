@@ -1,6 +1,21 @@
 # CodeAlpha_Age_Calculator
 A simple and user-friendly web application that calculates a user's exact age based on their date of birth. The application displays the age in years, months, and days while providing a clean, responsive, and intuitive user interface.
 ________________________________________________________________________________________________________________
+## Live Demo
+
+[Age Calculator](https://codealpha-age-calculator-fvmfctbz3-ankush00123s-projects.vercel.app/)
+________________________________________________________________________________________________________________
+
+## Screenshots
+<p align="center">
+    <img src="output_ss/without_input.png" width="600">
+</p>
+
+<p align="center">
+    <img src="output_ss/with_input.png" width="600">
+</p>
+________________________________________________________________________________________________________________
+
 # Tools
 1. HTML – Structures the webpage and input form.
 2. CSS – Styles the application with a clean and responsive layout.
@@ -35,18 +50,8 @@ Key concepts
 3. Input validation
 ________________________________________________________________________________________________________________
 
-## Screenshots
-<p align="center">
-    <img src="output_ss/without_input.png" width="600">
-</p>
 
-<p align="center">
-    <img src="output_ss/with_input.png" width="600">
-</p>
 
-## Live Demo
-
-[Age Calculator](https://codealpha-age-calculator-fvmfctbz3-ankush00123s-projects.vercel.app/)
 
 
 

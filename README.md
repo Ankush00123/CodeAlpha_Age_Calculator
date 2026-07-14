@@ -1,22 +1,20 @@
 # CodeAlpha_Age_Calculator
-This is a simple and user friendly web application that allows users to calculate their age by providing their date of birth.
-This web application gives output in exact years, months and days make it precise and unambigious
-This web application is cleanly designed and provides a intuitive interface, making it easy to use for the users
+A simple and user-friendly web application that calculates a user's exact age based on their date of birth. The application displays the age in years, months, and days while providing a clean, responsive, and intuitive user interface.
 ________________________________________________________________________________________________________________
 # Tools
-1. HTML: used for structing of the webpage and form elements
-2. CSS: used for applying visually appealing and responsive design
-3. JavaScript: Handles the logic to calculate age using the entered date and handles the clear functionality
+1. HTML – Structures the webpage and input form.
+2. CSS – Styles the application with a clean and responsive layout.
+3. JavaScript – Performs age calculation using the Date object, validates user input, and implements the Clear functionality.
 ________________________________________________________________________________________________________________
 # How to use
 1. Open the application using the link provided below in a web browser
 2. Enter your date of birth in the input field by either typing it manually or selecting it from the interactive calender provided by html
-3. After entering date of birth, click the calculate button and it shows the calculated age of the user from the provided date of birth
-4. The results will show the current age of user.
-5. Click the clear button to remove clean the input and output space
+3. After entering date of birth, Click Calculate Age to display the user's exact age in years, months, and days.
+4. The result displays the user's current age based on today's date.
+5. Click the clear button to clear both the input field and the displayed result.
 ________________________________________________________________________________________________________________
 # Information
-This repository contains web application for the completion of code alpha task
+This repository contains my submission for the CodeAlpha Web Development internship task.
 
 
 Task Requiremnts
@@ -37,8 +35,9 @@ Key concepts
 3. Input validation
 ________________________________________________________________________________________________________________
 
-# The website is live at
-https://codealpha-age-calculator-fvmfctbz3-ankush00123s-projects.vercel.app/
+## Live Demo
+
+[Age Calculator](https://codealpha-age-calculator-fvmfctbz3-ankush00123s-projects.vercel.app/)
 
 
 

@@ -1,4 +1,4 @@
-# CodeAlpha_Age_Calculator
+# CodeAlpha Age Calculator
 A simple and user-friendly web application that calculates a user's exact age based on their date of birth. The application displays the age in years, months, and days while providing a clean, responsive, and intuitive user interface.
 ________________________________________________________________________________________________________________
 ## Live Demo
@@ -30,18 +30,18 @@ ________________________________________________________________________________
 4. The result displays the user's current age based on today's date.
 5. Click the clear button to clear both the input field and the displayed result.
 ________________________________________________________________________________________________________________
-## Information
+# Information
 This repository contains my submission for the CodeAlpha Web Development internship task.
 
 
-# Task Requirements
+## Task Requirements
 Objective: Create a web-based age calculator using js
 
-Features
+## Features
 1. User inputs date of birth(day, month, year)
 2. Output shows calculated age in years, months and days
 
-Key concepts 
+## Key concepts 
 1. DOM manipulation
 2. Working with js date and time
 3. Input validation

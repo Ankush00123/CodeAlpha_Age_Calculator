@@ -23,18 +23,18 @@ OBJECTIVE
 Create a web based age calculator using js
 
 Features
-User inputs date of birth(day, month, year)
-Output shows calculated age in years, months and days
+1. User inputs date of birth(day, month, year)
+2. Output shows calculated age in years, months and days
 
 Tech stack 
-Html for input form
-Css for styling
-Js for age calculation using date object
+1. Html for input form
+2. Css for styling
+3. Js for age calculation using date object
 
 Key concepts 
-Dom manipulation
-Working with js date and time
-Input validation
+1. Dom manipulation
+2. Working with js date and time
+3. Input validation
 
 #The web application is live at 
 

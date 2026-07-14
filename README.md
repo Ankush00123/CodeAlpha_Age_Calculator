@@ -36,8 +36,13 @@ Key concepts
 ________________________________________________________________________________________________________________
 
 ## Screenshots
-![Age Calculator](output_ss/without_input.png)
-![Age Calculator](output_ss/with_input.png)
+<p align="center">
+    <img src="output_ss/without_input.png" width="600">
+</p>
+
+<p align="center">
+    <img src="output_ss/with_input.png" width="600">
+</p>
 
 ## Live Demo
 

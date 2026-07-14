@@ -35,7 +35,7 @@ Key concepts
 3. Input validation
 ________________________________________________________________________________________________________________
 
-##Screenshots
+## Screenshots
 ![Age Calculator](output_ss/without_input.png)
 ![Age Calculator](output_ss/with_input.png)
 
